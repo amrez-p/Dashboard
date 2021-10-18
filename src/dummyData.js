@@ -68,7 +68,7 @@ export const userRows = [
   {
     id: 1,
     username: "Jon Snow",
-
+    avatar:"https://cdn.vox-cdn.com/thumbor/UDwLuSFhcswoN-cIRM3tQRWL4_E=/99x0:1179x810/1220x813/filters:focal(99x0:1179x810):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46094226/Jon_snow.0.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -76,7 +76,7 @@ export const userRows = [
   {
     id: 2,
     username: "Jon Snow",
-
+     avatar:"https://cdn.vox-cdn.com/thumbor/UDwLuSFhcswoN-cIRM3tQRWL4_E=/99x0:1179x810/1220x813/filters:focal(99x0:1179x810):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46094226/Jon_snow.0.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -84,7 +84,7 @@ export const userRows = [
   {
     id: 3,
     username: "Jon Snow",
-
+    avatar:"https://cdn.vox-cdn.com/thumbor/UDwLuSFhcswoN-cIRM3tQRWL4_E=/99x0:1179x810/1220x813/filters:focal(99x0:1179x810):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46094226/Jon_snow.0.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -92,7 +92,7 @@ export const userRows = [
   {
     id: 4,
     username: "Jon Snow",
-
+     avatar:"https://cdn.vox-cdn.com/thumbor/UDwLuSFhcswoN-cIRM3tQRWL4_E=/99x0:1179x810/1220x813/filters:focal(99x0:1179x810):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46094226/Jon_snow.0.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -100,7 +100,7 @@ export const userRows = [
   {
     id: 5,
     username: "Jon Snow",
-
+    avatar:"https://cdn.vox-cdn.com/thumbor/UDwLuSFhcswoN-cIRM3tQRWL4_E=/99x0:1179x810/1220x813/filters:focal(99x0:1179x810):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46094226/Jon_snow.0.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -108,7 +108,7 @@ export const userRows = [
   {
     id: 6,
     username: "Jon Snow",
-
+    avatar:"https://cdn.vox-cdn.com/thumbor/UDwLuSFhcswoN-cIRM3tQRWL4_E=/99x0:1179x810/1220x813/filters:focal(99x0:1179x810):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46094226/Jon_snow.0.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -116,7 +116,7 @@ export const userRows = [
   {
     id: 7,
     username: "Jon Snow",
-
+    avatar:"https://cdn.vox-cdn.com/thumbor/UDwLuSFhcswoN-cIRM3tQRWL4_E=/99x0:1179x810/1220x813/filters:focal(99x0:1179x810):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46094226/Jon_snow.0.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -124,7 +124,7 @@ export const userRows = [
   {
     id: 8,
     username: "Jon Snow",
-
+    avatar:"https://cdn.vox-cdn.com/thumbor/UDwLuSFhcswoN-cIRM3tQRWL4_E=/99x0:1179x810/1220x813/filters:focal(99x0:1179x810):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46094226/Jon_snow.0.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -132,7 +132,7 @@ export const userRows = [
   {
     id: 9,
     username: "Jon Snow",
-
+    avatar:"https://cdn.vox-cdn.com/thumbor/UDwLuSFhcswoN-cIRM3tQRWL4_E=/99x0:1179x810/1220x813/filters:focal(99x0:1179x810):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46094226/Jon_snow.0.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -140,8 +140,8 @@ export const userRows = [
   {
     id: 10,
     username: "Jon Snow",
-
-    email: "jon@gmail.com",
+    avatar:"https://cdn.vox-cdn.com/thumbor/UDwLuSFhcswoN-cIRM3tQRWL4_E=/99x0:1179x810/1220x813/filters:focal(99x0:1179x810):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46094226/Jon_snow.0.jpg",
+    email: "jon@gmail.com", 
     status: "active",
     transaction: "$120.00",
   },
