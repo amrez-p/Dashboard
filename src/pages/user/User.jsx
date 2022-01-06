@@ -22,7 +22,7 @@ export default function User() {
         <div className="userShow">
           <div className="userShowTop">
             <img
-              src="https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+              src="https://cdn.vox-cdn.com/thumbor/UDwLuSFhcswoN-cIRM3tQRWL4_E=/99x0:1179x810/1220x813/filters:focal(99x0:1179x810):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46094226/Jon_snow.0.jpg"
               alt=""
               className="userShowImg"
             />
